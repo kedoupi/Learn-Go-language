@@ -33,14 +33,7 @@ go.work
 ehthumbs.db
 Thumbs.db
 
-# Compiled binaries (add specific binary names)
-day1
-day2
-day3
-day4
-day5
-day6
-day7
+
 
 # Log files
 *.log
